@@ -51,7 +51,7 @@ div {
 
 .sub2 {
     float: right;
-    color: white;
+    color: black;
     width: 100px;
     padding: 5px;
     margin: 0px;
